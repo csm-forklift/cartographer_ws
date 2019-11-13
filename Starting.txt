@@ -1,0 +1,13 @@
+This code works for Ubuntu 16.04 with ROS Kinetic 
+How to compile after ANY change to the files:
+
+catkin_make_isolated --install --use-ninja
+
+also you source the package using:
+ 
+source cartographer_ws/devel_isolated/setup.bash
+
+Additionally, we have the ouster_ros packages setup for you to use as well.
+Except we need to make a few changes for the specific computer once that is
+setup to run the code. Good luck and let me know if you have any questions!
+

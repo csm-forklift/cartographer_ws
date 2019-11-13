@@ -1,0 +1,2 @@
+rosrun cartographer_ros cartographer_start_trajectory -configuration_directory '/home/csm/cartographer2_ws/install_isolated/share/cartographer_ros/configuration_files' -configuration_basename 'realtime_2d.lua' -initial_pose '{to_trajectory_id = 0,relative_pose = {translation = {14.45, 0, 0},rotation = {0.0, 0.0, 0.0}},timestamp = 0}'
+
