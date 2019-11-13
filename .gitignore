@@ -1,5 +1,5 @@
 # Ignore all of the installed and compiled code
-build_isolated*
-devel_isolated*
-install_isolated*
+/build_isolated/
+/devel_isolated/
+/install_isolated/
 /protobuf/
