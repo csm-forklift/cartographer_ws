@@ -3,3 +3,6 @@
 /devel_isolated/
 /install_isolated/
 /protobuf/
+
+# Ignore the build folders hidden throughout
+build/
